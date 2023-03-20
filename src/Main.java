@@ -10,7 +10,7 @@ public class Main {
         } else {
             bonus=0;
         }
-        System.out.println("cчет клиента" + (amount + balance + bonus) + "рублей");
+        System.out.println("Счет клиента" + (amount + balance + bonus) + "Рублей");
     }
 
 }
